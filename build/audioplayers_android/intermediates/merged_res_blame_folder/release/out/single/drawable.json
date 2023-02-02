@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/raziyeyolasigmazoglu/development/first_flutter_game/build/audioplayers_android/intermediates/merged_res/release/drawable/notification_icon_background.xml",
+        "source": "/Users/raziyeyolasigmazoglu/.gradle/caches/transforms-3/d363e3b5616f580c766e3e2b3c05f27d/transformed/core-1.8.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/raziyeyolasigmazoglu/development/first_flutter_game/build/audioplayers_android/intermediates/merged_res/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/raziyeyolasigmazoglu/.gradle/caches/transforms-3/d363e3b5616f580c766e3e2b3c05f27d/transformed/core-1.8.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/raziyeyolasigmazoglu/development/first_flutter_game/build/audioplayers_android/intermediates/merged_res/release/drawable/notification_bg.xml",
+        "source": "/Users/raziyeyolasigmazoglu/.gradle/caches/transforms-3/d363e3b5616f580c766e3e2b3c05f27d/transformed/core-1.8.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/raziyeyolasigmazoglu/development/first_flutter_game/build/audioplayers_android/intermediates/merged_res/release/drawable/notification_bg_low.xml",
+        "source": "/Users/raziyeyolasigmazoglu/.gradle/caches/transforms-3/d363e3b5616f580c766e3e2b3c05f27d/transformed/core-1.8.0/res/drawable/notification_bg_low.xml"
+    }
+]

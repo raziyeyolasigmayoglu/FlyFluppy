@@ -1,0 +1,4 @@
+#Tue Nov 08 17:50:59 GMT 2022
+base.0=/Users/raziyeyolasigmazoglu/development/first_flutter_game/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
